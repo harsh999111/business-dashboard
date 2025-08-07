@@ -2,8 +2,8 @@ import React from 'react'
 import { FiSave } from "react-icons/fi";
 const DashBoardSetting = () => {
   return (
-    <section>
-        <div className='flex justify-between'>
+    <section className='h-full w-full '>
+        <div className='flex justify-between '>
 
         <div className='flex flex-col space-y-2'><h1 className='text-xl font-semibold'>Account Settings</h1><p className='text-sm text-gray-700'>Manage your account preferences and platform configuration.</p></div>
         <div className='py-2'>

@@ -13,7 +13,7 @@ const SettingProfileroute = () => {
   const [activeTab, setActiveTab] = useState('Profile')
 
   return (
-    <section className='h-full w-full'>
+    <section className='h-full w-full '>
       {/* Scrollable container */}
       <div className=''>
         <div className='border border-gray-200 flex rounded-xl w-fit '>

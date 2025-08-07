@@ -47,7 +47,7 @@ const formFields = [
 
 const SettingForm = () => {
   return (
-    <section className="h-full w-full">
+    <section className="h-full w-full ">
       <div className="border border-gray-200 p-6 rounded-2xl  mx-auto bg-white shadow-sm">
         <div className="mb-6">
           <h1 className="text-base font-semibold text-gray-800">Basic Information</h1>

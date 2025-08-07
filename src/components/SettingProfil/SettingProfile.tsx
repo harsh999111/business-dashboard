@@ -5,7 +5,7 @@ import { MdOutlineCameraAlt } from "react-icons/md";
 
 const SettingProfile = () => {
   return (
-   <section className='h-full w-full'>
+   <section className='h-full w-full '>
     <div className='border border-gray-200 rounded-2xl p-4 h-full'>
         <div className=''>
 
